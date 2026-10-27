@@ -1,0 +1,14 @@
+{
+  "name": "Dal libro alla tavola",
+  "short_name": "Dal libro",
+  "description": "La web app del libro Nonostante tutto di Valentina Patti e di Bontà di Montiglie.",
+  "lang": "it",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FDF4DE",
+  "theme_color": "#FDF4DE",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
