@@ -4,7 +4,7 @@
 const TELEFONO = "+39 348 738 8577";          // il numero da mostrare e chiamare, es. "+39 333 123 4567"
 const WHATSAPP = "393487388577";          // es. "393331234567" (senza + e senza spazi)
 const SITO = "https://www.bontadimontiglie.it";
-const AMAZON_RECENSIONE = "";  // link alla pagina Amazon del libro, per le recensioni (quando sarà pubblicato)
+const AMAZON_RECENSIONE = "https://www.amazon.it/review/create-review?asin=B0HPL195Z9";  // link alla pagina Amazon del libro, per le recensioni (quando sarà pubblicato)
 
 /* ===== PRODOTTI (dal listino) ===== */
 const C = {so:"Sott'oli, sughi e salse", cc:"Composte e confetture", sc:"Sciroppati, succhi e creme", es:"Essiccati e sali", ed:"Essiccati dolci"};
